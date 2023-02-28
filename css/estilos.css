@@ -1,6 +1,11 @@
 *{
     color: blue;
 }
+
+#demo {
+    color:black;
+}
+
 p, span {
     color: red;
     width: 300px;
@@ -9,8 +14,7 @@ p, span {
 Esto es un comentario dentro de un documento de CSS
 */
 body {
-    background-image: "C:\Jonatan_Personal\Programacion\Frontend\Argentinaprograma\661554-gallardo-20afp.jpg";
-    background-position: right top;
+    background-color: aqua;
 }
 h1 {
     font-family: 'Roboto', sans-serif;
